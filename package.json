@@ -1,0 +1,28 @@
+{
+  "name": "csv-to-jsondata",
+  "version": "1.0.2",
+  "description": "This is the covertor for csv to json for any framework or library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teshukatepalli/csv-to-json.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "convert",
+    "csv",
+    "to",
+    "json",
+    "data"
+  ],
+  "author": "teshukatepalli996@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teshukatepalli/csv-to-json/issues"
+  },
+  "homepage": "https://github.com/teshukatepalli/csv-to-json#readme"
+}
